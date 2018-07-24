@@ -30,7 +30,11 @@ pipeline {
                     sh 'mvn deploy'
 
 
+
 		    sh "date
+
+
+		    sh "date"
 
                 
             }
