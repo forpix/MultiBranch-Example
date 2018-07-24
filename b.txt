@@ -1,1 +1,2 @@
 added on b.txt file on working
+new line for testing
